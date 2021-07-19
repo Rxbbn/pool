@@ -3,16 +3,5 @@
 "description": "The Official BitBoy Crypto Cardano Staking Pool",
 "ticker": "BPOOL",
 "homepage": "https://bitboycrypto.com",
-"url_png_logo": "https://bitboycrypto.com/wp-content/uploads/2019/07/cropped-newlogo.png",
-
-  "social": {
-            "twitter_handle": "Bitboy_Crypto",
-            "telegram_handle": "Rxbbn",
-            "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
-            "discord_handle": "",
-            "github_handle": "Rxbbn"
-        },
 }
 
