@@ -1,4 +1,4 @@
-"info": {
+{ "info": {
         "url_png_icon_64x64": "https://bitboycrypto.com/wp-content/uploads/2019/07/cropped-newlogo.png",
         "url_png_logo": "https://bitboycrypto.com/wp-content/uploads/2019/07/cropped-newlogo.png",
         "location": "Atlanta, Georgia",
@@ -18,3 +18,4 @@
            
         }
     },
+}
